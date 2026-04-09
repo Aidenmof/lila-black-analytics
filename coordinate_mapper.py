@@ -43,7 +43,7 @@ MAP_CONFIG = {
 
 IMAGE_SIZE = 1024   # all minimaps are 1024×1024
 
-ASSETS_DIR = Path(__file__).parent.parent / "assets" / "minimaps"
+ASSETS_DIR = Path("assets") / "minimaps"
 
 
 def world_to_pixel(

@@ -5,6 +5,12 @@ three maps using 5 days of production telemetry data.
 
 **Live tool:** https://lila-black-analytics-psqtcqxyej5b6wzofcxew7.streamlit.app
 
+> ⚠️ **Data upload required to use the hosted tool**
+> The telemetry dataset (1,243 files, ~8 MB) exceeds GitHub's file upload limits and could not
+> be included in this repository. When you open the live tool, a file uploader will appear in
+> the sidebar. Upload the telemetry files from the `player_data/February_XX/` folders and the
+> app will load instantly. No other setup needed.
+
 ---
 
 ## Tech Stack
